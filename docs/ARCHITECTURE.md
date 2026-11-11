@@ -1,6 +1,6 @@
 # Find the Imposter — Architecture
 
-Status: **Phase 1, awaiting approval.** Section 12 lists the decisions that need an answer.
+Status: **Approved 2026-11-11.** Section 12 records the decisions.
 Verified against the local toolchain on 2026-11-11: Flutter 3.41.6, Dart 3.11.4.
 
 ---
@@ -550,21 +550,21 @@ Resolved together with `flutter pub get` against Flutter 3.41.6.
 
 ## 12. Risks and open decisions
 
-### Decisions needed
+### Decisions (all four approved as recommended)
 
 **D1. Project identity.** The prompt assumed an empty folder and says to run `flutter create --org com.lazybearclub --project-name find_the_imposter`. The folder already has an untouched Flutter template named `imposter_fun_game`, with ID `com.the_lazy_bear_club.imposter_fun_game` and desktop and web folders. The ID cannot change once the app is published.
-*Recommendation:* follow the prompt and use `com.lazybearclub.find_the_imposter`, renaming the package and removing `linux/`, `macos/`, `web/` and `windows/`. If `com.the_lazy_bear_club` is your real organisation ID, tell me and I'll use it instead.
+**Decided:** use `com.lazybearclub.find_the_imposter`, rename the package, and remove `linux/`, `macos/`, `web/` and `windows/`.
 
 **D2. Android minimum SDK (spec conflict).** The prompt says Android 23+, but Flutter 3.41 defaults to 24 and `google_mobile_ads` 9.2.0 declares `minSdk 24`.
-*Recommendation:* use **24**. Supporting 23 would mean downgrading the ad SDK and overriding Flutter's supported floor, for a very small share of devices.
+**Decided:** use **24**. Supporting 23 would mean downgrading the ad SDK and overriding Flutter's supported floor, for a very small share of devices.
 
 **D3. Hold gesture (spec conflict).** §4.1.7 asks for a `GestureDetector` long-press with an 800 ms controller. Flutter's long-press only fires after 500 ms, so progress and the first haptic would start late and a full reveal would take about 1.3 s. That contradicts "hold ~800 ms" and the acceptance test.
-*Recommendation:* use a `Listener` on raw pointer events. Progress starts on touch, and small finger movement doesn't cancel the hold.
+**Decided:** use a `Listener` on raw pointer events. Progress starts on touch, and small finger movement doesn't cancel the hold.
 
 **D4. App-switcher protection.** §4.1.8 says the snapshot must **never** show a secret, but a Flutter-drawn cover can lose the race with the OS.
-*Recommendation:* add a small native channel with no new package. On Android, set `FLAG_SECURE` during the reveal flow. On iOS, add a native cover view on resign-active. As a side effect, Android screenshots and screen recordings are black during reveals. A debug-only define will turn it off for QA screenshots.
+**Decided:** add a small native channel with no new package. On Android, set `FLAG_SECURE` during the reveal flow. On iOS, add a native cover view on resign-active. As a side effect, Android screenshots and screen recordings are black during reveals. A debug-only define will turn it off for QA screenshots.
 
-### Defaults I'll use unless you say otherwise
+### Accepted defaults
 
 - **D5. Player names** stay in memory across Home and Again!, but are not saved between app launches.
 - **D6. Allow duplicates switched off** while duplicates exist: existing names stay and only new entries are validated.
