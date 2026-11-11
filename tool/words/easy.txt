@@ -1,0 +1,412 @@
+# Format: Word|Hint[|extra,tags]. A "# category tag" line starts a category.
+# food party
+Pizza|Cheesy
+Burger|Bun stack
+Sandwich|Lunch layers
+Noodles|Slurpy
+Rice|Tiny grains
+Bread|Baked loaf
+Butter|Spreadable
+Cheese|Dairy block
+Egg|Breakfast shell
+Milk|White drink
+Honey|Sticky sweet
+Pepper|Sneezy spice
+Soup|Hot bowl
+Salad|Leafy bowl
+Popcorn|Movie snack
+Chocolate|Melty treat
+Ice Cream|Frozen scoop
+Cake|Birthday dessert
+Cookie|Crunchy biscuit
+Donut|Ring pastry
+Pancake|Flat breakfast
+Waffle|Grid breakfast
+Toast|Browned slice
+Apple|Teacher gift
+Banana|Peelable
+Mango|Summer king
+Orange|Citrus
+Grapes|Vine bunch
+Watermelon|Seedy summer
+Pineapple|Spiky fruit
+Strawberry|Red seeds
+Cherry|Cake topper
+Lemon|Sour
+Coconut|Hairy shell
+Papaya|Orange flesh
+Guava|Pink inside
+Peach|Fuzzy
+Tomato|Red sauce
+Potato|Underground
+Onion|Teary
+Garlic|Pungent clove
+Carrot|Rabbit snack
+Corn|Yellow cob
+Peas|Green pods
+Cucumber|Cool slices
+Pumpkin|Halloween
+Mushroom|Fungi
+Spinach|Iron greens
+Samosa|Fried triangle|india
+Dosa|Crispy crepe|india
+Idli|Steamed cake|india
+Roti|Flatbread|india
+Biryani|Layered rice|india
+Jalebi|Syrupy spiral|india
+Chai|Spiced tea|india
+Paratha|Stuffed flatbread|india
+Lassi|Yogurt drink|india
+Pakora|Fried fritter|india
+Tea|Hot leaves
+Coffee|Morning brew
+Lollipop|Candy stick
+Jam|Fruit spread
+Yogurt|Tangy dairy
+Omelette|Folded breakfast
+French Fries|Potato sticks
+Hot Dog|Ballpark snack
+# animals nature
+Dog|Loyal pet
+Cat|Purring pet
+Cow|Milk giver
+Horse|Galloper
+Sheep|Woolly
+Goat|Bearded grazer
+Pig|Muddy oinker
+Chicken|Clucker
+Duck|Quacker
+Rabbit|Long ears
+Mouse|Cheese thief
+Elephant|Long trunk
+Lion|Savanna king
+Tiger|Striped hunter
+Bear|Hibernator
+Monkey|Tree swinger
+Giraffe|Long neck
+Zebra|Black stripes
+Kangaroo|Pouch hopper
+Panda|Bamboo eater
+Koala|Eucalyptus napper
+Deer|Antlers
+Fox|Sly
+Wolf|Pack howler
+Camel|Desert humps
+Hippo|River giant
+Rhino|Horned tank
+Crocodile|Snappy jaws
+Snake|Slitherer
+Frog|Pond jumper
+Turtle|Shell slowpoke
+Lizard|Wall crawler
+Fish|Gills
+Shark|Ocean fin
+Whale|Ocean giant
+Dolphin|Smart swimmer
+Octopus|Eight arms
+Crab|Sideways walker
+Starfish|Five arms
+Jellyfish|Ocean stinger
+Penguin|Tuxedo bird
+Parrot|Talking bird
+Owl|Night hooter
+Eagle|Sky hunter
+Peacock|Fan tail
+Crow|Black caw
+Flamingo|Pink wader
+Swan|Graceful glider
+Butterfly|Colorful wings
+Bee|Hive worker
+Ant|Colony worker
+Spider|Web maker
+Ladybug|Spotted beetle
+Mosquito|Itchy biter
+Snail|Slow slime
+Squirrel|Nut hoarder
+Bat|Upside sleeper
+Hedgehog|Prickly ball
+Sloth|Slow hanger
+Gorilla|Big ape
+Cheetah|Fastest runner
+Donkey|Stubborn carrier
+Seal|Flippers
+# home indoors
+Chair|Sit here
+Table|Flat top
+Bed|Sleep spot
+Sofa|Living seat
+Pillow|Head rest
+Blanket|Cozy cover
+Lamp|Light stand
+Mirror|Reflection
+Clock|Tick tock
+Door|Knock here
+Window|Glass view
+Curtain|Fabric drape
+Carpet|Floor cover
+Fan|Spinning breeze
+Fridge|Cold storage
+Oven|Baking box
+Stove|Burner top
+Microwave|Quick heater
+Toaster|Pop up
+Kettle|Whistling boiler
+Spoon|Soup scooper
+Fork|Prongs
+Knife|Sharp cutter
+Plate|Food disc
+Cup|Handle drink
+Bottle|Capped drink
+Broom|Floor sweeper
+Soap|Bubbly bar
+Towel|Drying cloth
+Toothbrush|Bristles
+Toothpaste|Minty tube
+Comb|Hair teeth
+Shampoo|Hair wash
+Bathtub|Soak spot
+Shower|Overhead spray
+Toilet|Flush
+Key|Lock opener
+Candle|Wax light
+Umbrella|Rain shield
+Television|Living screen
+Remote|Channel changer
+Phone|Pocket caller
+Laptop|Folding computer
+Camera|Snapshot
+Headphones|Music cups
+Battery|Stored power
+Light Bulb|Bright idea
+Hammer|Nail hitter
+Scissors|Paper cutter
+Rope|Twisted cord
+Balloon|Party float
+Gift|Wrapped surprise
+Basket|Woven carrier
+# clothing fashion
+Shirt|Buttoned top
+Pants|Two legs
+Shorts|Summer legs
+Skirt|Waist flare
+Dress|One piece
+Jacket|Zip layer
+Sweater|Knit warmer
+Coat|Winter layer
+Socks|Foot warmers
+Shoes|Laced pair
+Sandals|Open footwear
+Boots|Tall footwear
+Hat|Brimmed
+Scarf|Neck wrap
+Gloves|Hand warmers
+Tie|Neck knot
+Glasses|Vision frames
+Sunglasses|Shady eyewear
+Watch|Wrist time
+Ring|Finger band
+Necklace|Pendant chain
+Backpack|School carrier
+Wallet|Cash holder
+Saree|Draped fabric|india
+Kurta|Long tunic|india
+Bangle|Wrist hoop|india
+# body people
+Eye|Sight
+Ear|Sound catcher
+Nose|Smeller
+Mouth|Talker
+Tooth|Chewer
+Tongue|Taster
+Hair|Scalp strands
+Hand|Five fingers
+Finger|Knuckle digit
+Arm|Elbow limb
+Elbow|Limb bend
+Knee|Leg joint
+Foot|Walking base
+Toe|Tiny digit
+Heart|Pumper
+Brain|Thinker
+Shoulder|Shrugger
+Beard|Chin growth
+Smile|Happy curve
+# transport travel
+Car|Four wheels
+Bus|Public ride
+Train|Railway
+Truck|Cargo hauler
+Bicycle|Two pedals
+Motorcycle|Helmet ride
+Scooter|Step rider
+Auto Rickshaw|Three wheels|india
+Taxi|Hired ride
+Ambulance|Siren help
+Fire Truck|Red ladder
+Police Car|Flashing siren
+Airplane|Winged flight
+Helicopter|Rotor blades
+Rocket|Space launch
+Boat|Small floater
+Ship|Ocean liner
+Submarine|Underwater vessel
+Canoe|Paddle craft
+Skateboard|Trick deck
+Roller Skates|Wheeled feet
+Tractor|Farm puller
+Hot Air Balloon|Floating basket
+Metro|Underground rails
+Bulldozer|Earth pusher
+Sled|Snow slider
+Parachute|Sky drop
+Cable Car|Mountain ride
+# nature outdoors
+Sun|Daytime star
+Moon|Night glow
+Star|Night twinkle
+Cloud|Sky cotton
+Rain|Falling drops
+Snow|White flakes
+Wind|Invisible push
+Rainbow|Seven colors
+Lightning|Stormy flash
+Thunder|Sky rumble
+Tree|Trunk
+Flower|Petals
+Grass|Lawn
+Leaf|Autumn faller
+Forest|Many trees
+Mountain|High peak
+Volcano|Lava
+River|Flowing water
+Lake|Still water
+Ocean|Salty vastness
+Beach|Sandy shore
+Island|Sea-ringed
+Desert|Dry dunes
+Cave|Rocky hollow
+Waterfall|Cliff cascade
+Rock|Hard stone
+Sand|Castle material
+Fire|Burning flames
+Ice|Frozen cubes
+Rose|Thorny bloom
+Sunflower|Yellow head
+Cactus|Prickly plant
+Bamboo|Hollow stalks
+Planet|Orbiting world
+# school learning
+Book|Pages
+Pen|Ink writer
+Pencil|Graphite
+Eraser|Mistake remover
+Ruler|Straight measure
+Notebook|Lined pages
+Blackboard|Chalk surface
+Chalk|Dusty writer
+Classroom|Student space
+Desk|Work surface
+Map|Route paper
+Globe|Spinning earth
+Calculator|Sum machine
+Glue|Sticky bond
+Paint|Wet color
+Crayon|Wax color
+Paintbrush|Bristle tool
+Homework|Evening task
+Exam|Graded test
+Alphabet|Letter set
+Library|Quiet shelves
+Envelope|Letter holder
+Stamp|Postal square
+Computer|Typing machine
+# sports games
+Football|Goal kicker
+Cricket|Wickets|india
+Basketball|Hoops
+Tennis|Racket court
+Badminton|Shuttlecock
+Volleyball|Net spiking
+Table Tennis|Small paddles
+Hockey|Stick goal
+Golf|Tee hole
+Baseball|Diamond innings
+Swimming|Pool laps
+Running|Track sprint
+Boxing|Ring gloves
+Wrestling|Mat pinning
+Cycling|Pedal race
+Skating|Ice glide
+Skiing|Snowy slopes
+Surfing|Riding waves
+Kite|Windy string
+Yoga|Stretch poses
+Kabaddi|Raiding tag|india
+Chess|Checkmate
+Carrom|Flicked striker|india
+Dice|Six sides
+Cards|Shuffled deck
+Puzzle|Interlocking pieces
+Teddy Bear|Stuffed friend
+Doll|Toy person
+Swing|Playground arc
+Slide|Playground chute
+Yo-Yo|String spinner
+Marbles|Glass balls
+Hide and Seek|Counting game
+Jump Rope|Skipping cord
+# jobs people
+Doctor|Stethoscope
+Nurse|Ward helper
+Teacher|Classroom guide
+Police Officer|Badge
+Firefighter|Hose hero
+Chef|Kitchen boss
+Farmer|Crop grower
+Pilot|Cockpit
+Driver|Steering person
+Dentist|Cavity fixer
+Barber|Haircut
+Tailor|Stitcher
+Baker|Oven worker
+Postman|Letter bringer
+Singer|Microphone
+Dancer|Stage moves
+Artist|Canvas
+Astronaut|Space suit
+Clown|Red nose
+Magician|Wand
+King|Crowned ruler
+Queen|Royal lady
+Pirate|Eye patch
+Superhero|Cape
+Ghost|Spooky sheet
+Robot|Metal helper
+Alien|Spaceship visitor
+# places travel
+School|Class building
+Hospital|Ward building
+Park|Green benches
+Zoo|Animal visit
+Farm|Barn land
+Market|Stalls
+Bank|Money vault
+Airport|Runway
+Bus Stop|Waiting bench
+Railway Station|Platforms
+Restaurant|Menu tables
+Cinema|Big screen
+Museum|Old exhibits
+Temple|Prayer building
+Castle|Moat fortress
+Playground|Swings area
+Swimming Pool|Deep end
+Kitchen|Cooking space
+Bathroom|Tiled space
+Bedroom|Sleeping space
+Garden|Flower beds
+Circus|Big top
+Hotel|Lobby stay
+Birthday Party|Candle blowing
+Wedding|Vows
+Picnic|Outdoor basket

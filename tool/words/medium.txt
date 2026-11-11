@@ -1,0 +1,311 @@
+# Format: Word|Hint[|extra,tags]. A "# category tag" line starts a category.
+# food party
+Sushi|Vinegared roll
+Taco|Folded shell
+Burrito|Wrapped tortilla
+Lasagna|Layered pasta
+Spaghetti|Long strands
+Ramen|Japanese broth
+Dumpling|Steamed pocket
+Croissant|Flaky crescent
+Bagel|Holed roll
+Pretzel|Salty knot
+Nachos|Chip pile
+Hummus|Chickpea dip
+Falafel|Chickpea balls
+Kebab|Skewered
+Curry|Spiced gravy
+Butter Chicken|Creamy gravy|india
+Pav Bhaji|Buttery mash|india
+Vada Pav|Mumbai slider|india
+Pani Puri|Tangy shells|india
+Gulab Jamun|Syrupy balls|india
+Rasgulla|Spongy sweet|india
+Khichdi|Comfort porridge|india
+Upma|Semolina breakfast|india
+Poha|Flattened grains|india
+Dal|Lentil stew|india
+Naan|Tandoor bread|india
+Raita|Cooling side|india
+Halwa|Semolina sweet|india
+Kulfi|Frozen stick|india
+Cheesecake|Creamy slice
+Brownie|Fudgy square
+Cupcake|Frosted mini
+Milkshake|Thick blend
+Smoothie|Fruit blend
+Avocado|Green butter
+Broccoli|Tiny trees
+Cauliflower|White florets
+Eggplant|Purple veg
+Ginger|Spicy root
+Turmeric|Golden spice
+Cinnamon|Bark spice
+Vanilla|Orchid bean
+# music arts
+Guitar|Six strings
+Piano|Ivory keys
+Violin|Bowed strings
+Flute|Breathy pipe
+Drums|Beaten kit
+Trumpet|Brass blower
+Saxophone|Jazz brass
+Harmonica|Mouth organ
+Tabla|Hand percussion|india
+Sitar|Long-necked strings|india
+Harp|Angel strings
+Accordion|Squeeze box
+Xylophone|Wooden bars
+Tambourine|Jingly hoop
+Bagpipes|Scottish drone
+Loudspeaker|Voice amplifier
+Orchestra|Conductor group
+Lullaby|Bedtime song
+Karaoke|Singing along
+Choir|Group voices
+# professions people
+Architect|Blueprints
+Plumber|Pipe fixer
+Electrician|Wire fixer
+Carpenter|Wood worker
+Mechanic|Engine fixer
+Photographer|Lens pro
+Journalist|News writer
+Librarian|Shelf keeper
+Lawyer|Courtroom voice
+Judge|Gavel
+Scientist|Lab coat
+Engineer|Bridge designer
+Accountant|Tax sums
+Waiter|Table service
+Cashier|Till worker
+Lifeguard|Poolside watcher
+Gardener|Plant tender
+Fisherman|Net caster
+Beekeeper|Smoky veil
+Zookeeper|Cage caretaker
+Veterinarian|Pet doctor
+Pharmacist|Pill counter
+Detective|Clue finder
+Spy|Undercover agent
+Referee|Whistle blower
+Comedian|Joke teller
+Actor|Script reader
+Director|Film boss
+Translator|Language bridge
+Tour Guide|Group leader
+Security Guard|Door watcher
+# landmarks travel
+Taj Mahal|Marble tomb|india
+Eiffel Tower|Paris iron
+Great Wall|Chinese barrier
+Pyramids|Egyptian tombs
+Statue of Liberty|Torch lady
+Big Ben|London clock
+Colosseum|Roman arena
+Mount Everest|Highest peak
+Niagara Falls|Border cascade
+Sahara|African sands
+Amazon|Rainforest river
+Ganges|Holy river|india
+Himalayas|Snowy range|india
+Red Fort|Delhi landmark|india
+Gateway of India|Mumbai arch|india
+Antarctica|Frozen continent
+Venice|Canal city
+Tokyo|Japan capital
+Rome|Ancient capital
+Paris|Romantic capital
+London|Thames city
+New York|Big apple
+Dubai|Tall skyline
+Goa|Beach state|india
+Kerala|Backwater state|india
+Mumbai|Dream city|india
+Lighthouse|Coastal beam
+Skyscraper|Tall building
+Bridge|River crossing
+Tunnel|Underground passage
+Fountain|Water feature
+Aquarium|Fish house
+Stadium|Sports arena
+Planetarium|Star dome
+Amusement Park|Thrill rides
+Harbor|Docked boats
+Palace|Royal home
+Monastery|Monk home
+Village|Small community
+# activities hobbies
+Camping|Tents outdoors
+Fishing|Rod patience
+Hiking|Trail walking
+Gardening|Soil hobby
+Knitting|Yarn craft
+Origami|Paper folding
+Pottery|Clay wheel
+Photography|Lens hobby
+Bird Watching|Binocular hobby
+Stargazing|Night hobby
+Scuba Diving|Oxygen tank
+Snorkeling|Shallow breathing
+Rock Climbing|Harness grip
+Bungee Jumping|Elastic drop
+Skydiving|Free fall
+Paragliding|Canopy flight
+Rafting|River rapids
+Archery|Bow target
+Fencing|Foil duel
+Gymnastics|Balance beam
+Karate|Black belt
+Sumo|Heavy wrestlers
+Polo|Mallet horses
+Rugby|Oval scrum
+Marathon|Long race
+Relay Race|Baton handoff
+Treasure Hunt|Map clues
+Sleepover|Overnight friends
+Road Trip|Long drive
+Barbecue|Grilled outdoors
+Gully Cricket|Street game|india
+# objects indoors
+Compass|North needle
+Binoculars|Distant lenses
+Telescope|Star viewer
+Microscope|Tiny viewer
+Magnifying Glass|Detective lens
+Thermometer|Fever reader
+Stethoscope|Heartbeat listener
+Wheelchair|Rolling seat
+Crutches|Walking support
+Bandage|Wound wrap
+Syringe|Needle shot
+Flashlight|Portable beam
+Tent|Camp shelter
+Sleeping Bag|Zip warmth
+Suitcase|Luggage box
+Passport|Travel booklet
+Hourglass|Sand timer
+Sundial|Shadow timer
+Anchor|Ship weight
+Wheelbarrow|Garden cart
+Shovel|Digging tool
+Axe|Wood chopper
+Saw|Toothed cutter
+Screwdriver|Twist tool
+Wrench|Bolt turner
+Drill|Spinning bit
+Tape Measure|Retracting ruler
+Treasure Chest|Pirate box
+Vending Machine|Coin snacks
+Trampoline|Bouncy mat
+Hammock|Hanging bed
+Rocking Chair|Porch seat
+Bunk Bed|Stacked sleep
+Chandelier|Ceiling crystals
+Vacuum Cleaner|Suction tidy
+Washing Machine|Spin cycle
+Hair Dryer|Hot blower
+Iron|Wrinkle remover
+Pressure Cooker|Whistling pot|india
+# wild nature
+Tornado|Spinning funnel
+Hurricane|Eye storm
+Earthquake|Ground shake
+Tsunami|Giant wave
+Avalanche|Snow slide
+Monsoon|Rainy season|india
+Blizzard|Whiteout
+Fog|Low visibility
+Hailstorm|Icy pellets
+Drought|Long dryness
+Eclipse|Blocked sun
+Comet|Icy tail
+Meteor|Shooting rock
+Galaxy|Star system
+Aurora|Polar lights
+Glacier|Slow ice
+Iceberg|Ship danger
+Coral Reef|Underwater colors
+Swamp|Murky wetland
+Canyon|Deep gorge
+Oasis|Desert spring
+Jungle|Dense vines
+Lotus|Pond bloom|india
+Banyan|Aerial roots|india
+Chameleon|Color changer
+Platypus|Duck-billed
+Walrus|Arctic tusks
+Mongoose|Snake fighter|india
+Vulture|Carrion circler
+Scorpion|Stinging tail
+Beaver|Dam builder
+Otter|Playful swimmer
+Ostrich|Flightless sprinter
+# festivals culture
+Diwali|Festival lights|india
+Holi|Colored powder|india
+Eid|Crescent feast
+Christmas|December tree
+Halloween|Costume night
+New Year|Midnight countdown
+Navratri|Nine nights|india
+Ganesh Chaturthi|Elephant festival|india
+Raksha Bandhan|Sibling thread|india
+Onam|Flower carpets|india
+Pongal|Harvest pot|india
+Thanksgiving|November feast
+Carnival|Street parade
+Graduation|Cap toss
+Anniversary|Yearly celebration
+Baby Shower|Expecting party
+Fireworks|Sky sparkles
+Rangoli|Floor patterns|india
+Henna|Hand art|india
+Pinata|Candy hitting
+# technology tech
+Smartphone|Touch pocket
+Tablet|Flat touchscreen
+Smartwatch|Wrist gadget
+Drone|Flying camera
+Selfie|Front snap
+Emoji|Tiny face
+Password|Secret login
+Wi-Fi|Wireless internet
+Bluetooth|Short pairing
+Charger|Battery refill
+Power Bank|Portable juice
+Hard Drive|Data storage
+Website|Browser page
+Email|Digital letter
+Podcast|Audio episodes
+Video Game|Console fun
+Joystick|Arcade lever
+Virtual Reality|Headset world
+GPS|Satellite directions
+Barcode|Striped scan
+QR Code|Square scan
+Robot Vacuum|Floor roamer
+Solar Panel|Sunlight catcher
+Wind Turbine|Tall blades
+Electric Car|Plug ride
+# competition games
+Goalkeeper|Net defender
+Umpire|Cricket judge
+Trophy|Winner cup
+Medal|Podium prize
+Scoreboard|Points display
+Whistle|Referee sound
+Stopwatch|Lap timer
+Dumbbell|Gym weight
+Treadmill|Indoor runner
+Hula Hoop|Waist spinner
+Frisbee|Flying disc
+Boomerang|Returning throw
+Pogo Stick|Spring hopper
+Bowling|Pin strike
+Darts|Bullseye throws
+Billiards|Cue table
+Ludo|Four homes|india
+Snakes and Ladders|Board ups|india
+Crossword|Clue grid
+Sudoku|Number grid

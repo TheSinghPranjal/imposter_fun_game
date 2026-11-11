@@ -1,0 +1,208 @@
+# Format: Word|Hint[|extra,tags]. A "# category tag" line starts a category.
+# science learning
+Gravity|Falling force
+Photosynthesis|Plant chemistry
+Evolution|Darwin
+Black Hole|Light trap
+Supernova|Exploding star
+Nebula|Cosmic cloud
+Asteroid|Space rock
+Satellite|Orbital device
+DNA|Genetic code
+Atom|Tiny matter
+Molecule|Bonded particles
+Electron|Negative particle
+Magnet|Attractive metal
+Friction|Sliding resistance
+Inertia|Motion resistance
+Vaccine|Immune shot
+Antibiotic|Bacteria killer
+Virus|Tiny infector
+Bacteria|Microbes
+Metabolism|Energy use
+Adrenaline|Rush hormone
+Hibernation|Winter sleep
+Migration|Seasonal journey
+Camouflage|Blending in
+Pollination|Bee transfer
+Fossil|Stone remains
+Tectonic Plates|Drifting crust
+Ozone|Sky shield
+Greenhouse Effect|Trapped heat
+Fermentation|Yeast process
+Evaporation|Liquid vanishing
+Condensation|Cold droplets
+Static Electricity|Balloon cling
+Echo|Repeating sound
+Mirage|False water
+Prism|Light splitter
+Hologram|Light image
+Algorithm|Step recipe
+Encryption|Scrambled data
+Artificial Intelligence|Thinking machines
+Blockchain|Shared ledger
+Firewall|Network guard
+# history learning
+Dinosaur|Extinct giant
+Mummy|Wrapped pharaoh
+Pharaoh|Egyptian ruler
+Gladiator|Arena fighter
+Samurai|Katana warrior
+Viking|Longship raider
+Knight|Armored rider
+Renaissance|European rebirth
+Industrial Revolution|Factory age
+Silk Road|Trade route
+Printing Press|Movable type
+Ice Age|Mammoth era
+Stone Age|Flint era
+Titanic|Doomed liner
+Moon Landing|Giant leap
+Dandi March|Salt protest|india
+Mughal Empire|Akbar era|india
+Ashoka Pillar|Lion capital|india
+Harappa|Indus city|india
+Nalanda|Ancient university|india
+Constitution|Founding document
+Democracy|Voting rule
+Monarchy|Royal rule
+Revolution|Overthrown order
+Treaty|Signed peace
+Archaeology|Digging past
+Time Capsule|Buried future
+Hieroglyphics|Picture writing
+Chariot|Horse cart
+Catapult|Siege thrower
+# arts arts
+Mona Lisa|Mysterious smile
+Sculpture|Carved art
+Mosaic|Tiled picture
+Graffiti|Spray art
+Calligraphy|Fancy writing
+Bharatanatyam|Temple dance|india
+Kathak|Spinning dance|india
+Ballet|Pointe shoes
+Flamenco|Spanish stomp
+Opera|Sung drama
+Symphony|Orchestra piece
+Haiku|Short poem
+Sonnet|Fourteen lines
+Limerick|Funny rhyme
+Metaphor|Implied comparison
+Palindrome|Reversible word
+Onomatopoeia|Sound word
+Alliteration|Repeating letters
+Autobiography|Own story
+Satire|Mocking humor
+Cliffhanger|Suspense ending
+Plot Twist|Surprise turn
+Sequel|Next film
+Documentary|True film
+Silhouette|Dark outline
+Perspective|Vanishing point
+Puppetry|String theater
+Pantomime|Silent acting
+Ventriloquist|Talking dummy
+Stand-up Comedy|Mic jokes
+Bollywood|Mumbai films|india
+# concepts ideas
+Nostalgia|Sweet memories
+Procrastination|Delaying tasks
+Jealousy|Green feeling
+Empathy|Shared feelings
+Sarcasm|Mock praise
+Deja Vu|Repeat feeling
+Paradox|Self contradiction
+Coincidence|Lucky timing
+Karma|Cosmic payback
+Destiny|Fated path
+Intuition|Gut feeling
+Imagination|Mental pictures
+Curiosity|Eager questions
+Ambition|Big drive
+Patience|Calm waiting
+Courage|Brave heart
+Loyalty|Steadfast faith
+Betrayal|Broken trust
+Forgiveness|Letting go
+Gratitude|Thankful feeling
+Optimism|Bright outlook
+Pessimism|Gloomy outlook
+Perfectionism|Flawless obsession
+Insomnia|Sleepless nights
+Homesickness|Missing family
+Stage Fright|Performance nerves
+Peer Pressure|Friend influence
+Midlife Crisis|Sports car
+White Lie|Harmless fib
+Poker Face|Hidden feelings
+Elephant in the Room|Ignored issue
+Silver Lining|Hidden upside
+Butterfly Effect|Tiny cause
+Domino Effect|Chain reaction
+Comfort Zone|Safe habits
+Blind Spot|Unseen area
+Second Wind|Renewed energy
+Cold Feet|Last-minute doubt
+# society ideas
+Inflation|Rising prices
+Recession|Economic slump
+Mortgage|Home loan
+Interest Rate|Borrowing cost
+Stock Market|Share trading
+Cryptocurrency|Digital coins
+Insurance|Risk cover
+Pension|Retirement income
+Budget|Spending plan
+Auction|Highest bid
+Monopoly|Single seller
+Startup|Young company
+Patent|Invention right
+Copyright|Creative ownership
+Subscription|Monthly plan
+Bankruptcy|Broke legally
+Alibi|Elsewhere proof
+Verdict|Jury decision
+Witness|Court testimony
+Parliament|Elected house
+Election|Ballot day
+Referendum|Public vote
+Diplomat|Foreign envoy
+Embassy|Foreign office
+Visa|Entry stamp
+Refugee|Forced migrant
+Panchayat|Village council|india
+# legends stories
+Unicorn|Horned horse
+Dragon|Fire breather
+Phoenix|Reborn bird
+Mermaid|Fish tail
+Werewolf|Full moon
+Vampire|Fang night
+Genie|Lamp wishes
+Loch Ness Monster|Scottish lake
+Atlantis|Sunken city
+Excalibur|Stone blade
+Pegasus|Winged horse
+Medusa|Snake hair
+Minotaur|Labyrinth beast
+Trojan Horse|Hidden soldiers
+Pandora's Box|Forbidden lid
+Panchatantra|Animal fables|india
+Tenali Raman|Witty courtier|india
+Yeti|Himalayan beast
+# engineering structures
+Suspension Bridge|Hanging cables
+Dam|River barrier
+Aqueduct|Water arches
+Pagoda|Tiered tower
+Minaret|Slender tower
+Stepwell|Descending stairs|india
+Igloo|Snow dome
+Treehouse|Branch hideout
+Windmill|Spinning sails
+Escalator|Moving stairs
+Elevator|Vertical lift
+Conveyor Belt|Moving line
+Assembly Line|Factory sequence
+Crane|Lifting arm

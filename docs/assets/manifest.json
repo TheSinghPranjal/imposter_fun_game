@@ -1,0 +1,376 @@
+{
+  "assets": [
+    {
+      "id": "home_background",
+      "path": "assets/images/backgrounds/home_background.webp",
+      "type": "background",
+      "size_px": "1080x2340",
+      "format": "webp",
+      "used_on": [
+        "home",
+        "error"
+      ],
+      "status": "placeholder",
+      "generation_prompt": "Subject: three lazy bears lounging together at a cosy night party beneath a hanging wooden logo board that reads \"Find the Imposter\". Composition: portrait 9:19.5, 1080x2340. Logo in the top quarter, bears in the middle band, one bear glancing suspiciously sideways. Safe area: bottom 40 % must be a calm, dark, low-detail floor for buttons and a banner. Palette: deep purple #2B1452, indigo #3D1F7A, deep navy #0F0A1F, violet #7C4DFF, electric blue #4FC3F7, warm yellow #FFD54F, coral #FF6B8A, wood #A9713E. Lighting: warm lamp glow on the bears, violet haze behind, soft vignette. Style: original cartoon illustration, thick soft dark outlines, chunky rounded shapes, gentle cel shading, friendly sleepy-eyed lazy bears as the cast. Negatives: no text or lettering except the logo, no photorealism, no scary or adult content, no existing brands or copyrighted characters, no busy detail inside safe areas.",
+      "safe_areas": [
+        {
+          "x": 0.06,
+          "y": 0.6,
+          "w": 0.88,
+          "h": 0.39
+        }
+      ]
+    },
+    {
+      "id": "players_background",
+      "path": "assets/images/backgrounds/players_background.webp",
+      "type": "background",
+      "size_px": "1080x2340",
+      "format": "webp",
+      "used_on": [
+        "playerSetup",
+        "configuration"
+      ],
+      "status": "placeholder",
+      "generation_prompt": "Subject: a cosy party room at night with bunting along the ceiling and warm lamps on both side walls. Composition: portrait 9:19.5, 1080x2340. Decoration hugs the outer edges and top, with a wooden floor at the very bottom. Safe area: central column, 84 % wide and 89 % tall, must stay calm for the sign and the player list. Palette: deep purple #2B1452, indigo #3D1F7A, deep navy #0F0A1F, violet #7C4DFF, electric blue #4FC3F7, warm yellow #FFD54F, coral #FF6B8A, wood #A9713E. Lighting: warm side lamps falling off to a soft indigo centre. Style: original cartoon illustration, thick soft dark outlines, chunky rounded shapes, gentle cel shading, friendly sleepy-eyed lazy bears as the cast. Negatives: no text or lettering, no photorealism, no scary or adult content, no existing brands or copyrighted characters, no busy detail inside safe areas.",
+      "safe_areas": [
+        {
+          "x": 0.08,
+          "y": 0.07,
+          "w": 0.84,
+          "h": 0.89
+        }
+      ]
+    },
+    {
+      "id": "pass_phone_background",
+      "path": "assets/images/backgrounds/pass_phone_background.webp",
+      "type": "background",
+      "size_px": "1080x2340",
+      "format": "webp",
+      "used_on": [
+        "passPhone"
+      ],
+      "status": "placeholder",
+      "generation_prompt": "Subject: two bear paws at the bottom of the frame handing a smartphone from one to the other. Composition: portrait 9:19.5, 1080x2340. Paws and phone in the bottom 15 %, a spotlight cone falling from the top centre. Safe area: centre band from 26 % to 85 % of the height must stay calm for a hanging sign and a button. Palette: deep purple #2B1452, indigo #3D1F7A, deep navy #0F0A1F, violet #7C4DFF, electric blue #4FC3F7, warm yellow #FFD54F, coral #FF6B8A, wood #A9713E. Lighting: one soft yellow spotlight against a dark navy room. Style: original cartoon illustration, thick soft dark outlines, chunky rounded shapes, gentle cel shading, friendly sleepy-eyed lazy bears as the cast. Negatives: no text or lettering, no photorealism, no scary or adult content, no existing brands or copyrighted characters, no busy detail inside safe areas.",
+      "safe_areas": [
+        {
+          "x": 0.1,
+          "y": 0.26,
+          "w": 0.8,
+          "h": 0.59
+        }
+      ]
+    },
+    {
+      "id": "your_turn_background",
+      "path": "assets/images/backgrounds/your_turn_background.webp",
+      "type": "background",
+      "size_px": "1080x2340",
+      "format": "webp",
+      "used_on": [
+        "readyToReveal",
+        "revealing",
+        "revealed"
+      ],
+      "status": "placeholder",
+      "generation_prompt": "Subject: an empty theatre stage with heavy coral-red curtains drawn to both sides and a wooden stage floor. Composition: portrait 9:19.5, 1080x2340. Curtains occupy the outer 15 % on each side, with no characters. Safe area: centre column, 72 % wide, must stay calm for a large card. Palette: deep purple #2B1452, indigo #3D1F7A, deep navy #0F0A1F, violet #7C4DFF, electric blue #4FC3F7, warm yellow #FFD54F, coral #FF6B8A, wood #A9713E. Lighting: a round warm spotlight centred on the stage, darkness behind. Style: original cartoon illustration, thick soft dark outlines, chunky rounded shapes, gentle cel shading, friendly sleepy-eyed lazy bears as the cast. Negatives: no text or lettering, no photorealism, no scary or adult content, no existing brands or copyrighted characters, no busy detail inside safe areas.",
+      "safe_areas": [
+        {
+          "x": 0.14,
+          "y": 0.08,
+          "w": 0.72,
+          "h": 0.87
+        }
+      ]
+    },
+    {
+      "id": "ready_background",
+      "path": "assets/images/backgrounds/ready_background.webp",
+      "type": "background",
+      "size_px": "1080x2340",
+      "format": "webp",
+      "used_on": [
+        "allRevealed"
+      ],
+      "status": "placeholder",
+      "generation_prompt": "Subject: a joyful celebration scene of confetti and streamers bursting in from the edges. Composition: portrait 9:19.5, 1080x2340. Confetti concentrated around the border and thinning toward the centre. Safe area: centre rectangle, 76 % wide and 50 % tall, must stay calm for a sign and a button. Palette: deep purple #2B1452, indigo #3D1F7A, deep navy #0F0A1F, violet #7C4DFF, electric blue #4FC3F7, warm yellow #FFD54F, coral #FF6B8A, wood #A9713E. Lighting: bright violet to indigo glow, sparkling highlights. Style: original cartoon illustration, thick soft dark outlines, chunky rounded shapes, gentle cel shading, friendly sleepy-eyed lazy bears as the cast. Negatives: no text or lettering, no photorealism, no scary or adult content, no existing brands or copyrighted characters, no busy detail inside safe areas.",
+      "safe_areas": [
+        {
+          "x": 0.12,
+          "y": 0.25,
+          "w": 0.76,
+          "h": 0.5
+        }
+      ]
+    },
+    {
+      "id": "round_background",
+      "path": "assets/images/backgrounds/round_background.webp",
+      "type": "background",
+      "size_px": "1080x2340",
+      "format": "webp",
+      "used_on": [
+        "roundReady"
+      ],
+      "status": "placeholder",
+      "generation_prompt": "Subject: a group of lazy bears gathered around a round wooden table, talking and eyeing each other with suspicion. Composition: portrait 9:19.5, 1080x2340. Table and bears in the band from 38 % to 66 % of the height. Safe area: the top band for a sign and the bottom band for two buttons and a banner must stay calm. Palette: deep purple #2B1452, indigo #3D1F7A, deep navy #0F0A1F, violet #7C4DFF, electric blue #4FC3F7, warm yellow #FFD54F, coral #FF6B8A, wood #A9713E. Lighting: warm pendant lamp over the table, night sky above. Style: original cartoon illustration, thick soft dark outlines, chunky rounded shapes, gentle cel shading, friendly sleepy-eyed lazy bears as the cast. Negatives: no text or lettering, no photorealism, no scary or adult content, no existing brands or copyrighted characters, no busy detail inside safe areas.",
+      "safe_areas": [
+        {
+          "x": 0.08,
+          "y": 0.08,
+          "w": 0.84,
+          "h": 0.27
+        },
+        {
+          "x": 0.08,
+          "y": 0.69,
+          "w": 0.84,
+          "h": 0.28
+        }
+      ]
+    },
+    {
+      "id": "settings_bear",
+      "path": "assets/images/mascot/settings_bear.png",
+      "type": "mascot",
+      "size_px": "600x600",
+      "format": "png",
+      "used_on": [
+        "settings"
+      ],
+      "status": "placeholder",
+      "generation_prompt": "Subject: a lazy bear holding a wrench and a large gear, looking pleased with itself. Composition: centred full-body sticker on a transparent background, 600x600. Safe area: keep a 5 % transparent margin on all sides. Palette: deep purple #2B1452, indigo #3D1F7A, deep navy #0F0A1F, violet #7C4DFF, electric blue #4FC3F7, warm yellow #FFD54F, coral #FF6B8A, wood #A9713E. Lighting: soft even light with a warm rim. Style: original cartoon illustration, thick soft dark outlines, chunky rounded shapes, gentle cel shading, friendly sleepy-eyed lazy bears as the cast. Negatives: no text or lettering, no photorealism, no scary or adult content, no existing brands or copyrighted characters, no busy detail inside safe areas."
+    },
+    {
+      "id": "imposter_bear",
+      "path": "assets/images/mascot/imposter_bear.png",
+      "type": "mascot",
+      "size_px": "600x600",
+      "format": "png",
+      "used_on": [
+        "revealed"
+      ],
+      "status": "placeholder",
+      "generation_prompt": "Subject: a sneaky bear in a dark trench coat and red brimmed hat, eyes darting sideways. Composition: centred bust on a transparent background, 600x600. Safe area: keep a 5 % transparent margin on all sides. Palette: deep purple #2B1452, indigo #3D1F7A, deep navy #0F0A1F, violet #7C4DFF, electric blue #4FC3F7, warm yellow #FFD54F, coral #FF6B8A, wood #A9713E. Lighting: moody top light with a coral rim. Style: original cartoon illustration, thick soft dark outlines, chunky rounded shapes, gentle cel shading, friendly sleepy-eyed lazy bears as the cast. Negatives: no text or lettering, no photorealism, no scary or adult content, no existing brands or copyrighted characters, no busy detail inside safe areas."
+    },
+    {
+      "id": "card_back",
+      "path": "assets/images/ui/card_back.png",
+      "type": "ui",
+      "size_px": "900x1260",
+      "format": "png",
+      "used_on": [
+        "readyToReveal",
+        "revealing"
+      ],
+      "status": "placeholder",
+      "generation_prompt": "Subject: the back of a mysterious playing card: a repeating pattern of question marks with one big glowing question mark in a central medallion. Composition: symmetrical, with a yellow rounded inner border, 900x1260. Safe area: centre circle stays clear because a progress ring is drawn over it. Palette: deep purple #2B1452, indigo #3D1F7A, deep navy #0F0A1F, violet #7C4DFF, electric blue #4FC3F7, warm yellow #FFD54F, coral #FF6B8A, wood #A9713E. Lighting: soft inner glow. Style: original cartoon illustration, thick soft dark outlines, chunky rounded shapes, gentle cel shading, friendly sleepy-eyed lazy bears as the cast. Negatives: no text or lettering except question marks, no photorealism, no scary or adult content, no existing brands or copyrighted characters, no busy detail inside safe areas."
+    },
+    {
+      "id": "spark",
+      "path": "assets/images/ui/spark.png",
+      "type": "ui",
+      "size_px": "256x256",
+      "format": "png",
+      "used_on": [
+        "revealed",
+        "allRevealed"
+      ],
+      "status": "placeholder",
+      "generation_prompt": "Subject: a chunky cartoon spark burst star. Composition: centred on a transparent background, 256x256. Safe area: none. Palette: deep purple #2B1452, indigo #3D1F7A, deep navy #0F0A1F, violet #7C4DFF, electric blue #4FC3F7, warm yellow #FFD54F, coral #FF6B8A, wood #A9713E. Lighting: bright flat yellow with a white core. Style: original cartoon illustration, thick soft dark outlines, chunky rounded shapes, gentle cel shading, friendly sleepy-eyed lazy bears as the cast. Negatives: no text or lettering, no photorealism, no scary or adult content, no existing brands or copyrighted characters, no busy detail inside safe areas."
+    },
+    {
+      "id": "app_icon",
+      "path": "assets/images/icon/app_icon.png",
+      "type": "icon",
+      "size_px": "1024x1024",
+      "format": "png",
+      "used_on": [
+        "launcher"
+      ],
+      "status": "placeholder",
+      "generation_prompt": "Subject: a lazy bear face with one suspicious eyebrow raised and a glowing question mark beside it. Composition: centred and bold, legible at 48 px, 1024x1024, fully opaque. Safe area: keep all key shapes inside the central 80 %. Palette: deep purple #2B1452, indigo #3D1F7A, deep navy #0F0A1F, violet #7C4DFF, electric blue #4FC3F7, warm yellow #FFD54F, coral #FF6B8A, wood #A9713E. Lighting: violet glow behind the head. Style: original cartoon illustration, thick soft dark outlines, chunky rounded shapes, gentle cel shading, friendly sleepy-eyed lazy bears as the cast. Negatives: no text or lettering except the question mark, no photorealism, no scary or adult content, no existing brands or copyrighted characters, no busy detail inside safe areas."
+    },
+    {
+      "id": "app_icon_foreground",
+      "path": "assets/images/icon/app_icon_foreground.png",
+      "type": "icon",
+      "size_px": "1024x1024",
+      "format": "png",
+      "used_on": [
+        "launcher"
+      ],
+      "status": "placeholder",
+      "generation_prompt": "Subject: the same bear face and question mark as the app icon, isolated. Composition: transparent background, 1024x1024. Safe area: all content inside the central 66 %, for Android adaptive masks. Palette: deep purple #2B1452, indigo #3D1F7A, deep navy #0F0A1F, violet #7C4DFF, electric blue #4FC3F7, warm yellow #FFD54F, coral #FF6B8A, wood #A9713E. Lighting: matching the app icon. Style: original cartoon illustration, thick soft dark outlines, chunky rounded shapes, gentle cel shading, friendly sleepy-eyed lazy bears as the cast. Negatives: no text or lettering except the question mark, no photorealism, no scary or adult content, no existing brands or copyrighted characters, no busy detail inside safe areas."
+    },
+    {
+      "id": "app_icon_background",
+      "path": "assets/images/icon/app_icon_background.png",
+      "type": "icon",
+      "size_px": "1024x1024",
+      "format": "png",
+      "used_on": [
+        "launcher"
+      ],
+      "status": "placeholder",
+      "generation_prompt": "Subject: a plain violet to deep purple gradient. Composition: full-bleed, opaque, 1024x1024. Safe area: none. Palette: deep purple #2B1452, indigo #3D1F7A, deep navy #0F0A1F, violet #7C4DFF, electric blue #4FC3F7, warm yellow #FFD54F, coral #FF6B8A, wood #A9713E. Lighting: flat. Style: original cartoon illustration, thick soft dark outlines, chunky rounded shapes, gentle cel shading, friendly sleepy-eyed lazy bears as the cast. Negatives: no text or lettering, no photorealism, no scary or adult content, no existing brands or copyrighted characters, no busy detail inside safe areas."
+    },
+    {
+      "id": "splash_logo",
+      "path": "assets/images/icon/splash_logo.png",
+      "type": "icon",
+      "size_px": "1024x1024",
+      "format": "png",
+      "used_on": [
+        "splash"
+      ],
+      "status": "placeholder",
+      "generation_prompt": "Subject: a lazy bear face above the words \"Find the Imposter\" in chunky rounded letters. Composition: centred on a transparent background, 1024x1024. Safe area: keep a 10 % transparent margin. Palette: deep purple #2B1452, indigo #3D1F7A, deep navy #0F0A1F, violet #7C4DFF, electric blue #4FC3F7, warm yellow #FFD54F, coral #FF6B8A, wood #A9713E. Lighting: flat with a soft yellow rim. Style: original cartoon illustration, thick soft dark outlines, chunky rounded shapes, gentle cel shading, friendly sleepy-eyed lazy bears as the cast. Negatives: no text or lettering except the logo, no photorealism, no scary or adult content, no existing brands or copyrighted characters, no busy detail inside safe areas."
+    },
+    {
+      "id": "wood_sign",
+      "path": "assets/images/ui/wood_sign.png",
+      "type": "ui",
+      "size_px": "360x120 @1x, 720x240 @2x, 1080x360 @3x",
+      "format": "png",
+      "used_on": [
+        "error",
+        "playerSetup",
+        "configuration",
+        "passPhone",
+        "readyToReveal",
+        "revealing",
+        "revealed",
+        "allRevealed",
+        "roundReady"
+      ],
+      "status": "placeholder",
+      "generation_prompt": "Subject: a warm wooden hanging sign board made of horizontal planks. Composition: front view, empty face, transparent surroundings, 360x120 at 1x plus 2x and 3x. Safe area: the centre must be plain enough to stretch and hold text. Corners stay within 40 px horizontally and 36 px vertically at 1x. Palette: deep purple #2B1452, indigo #3D1F7A, deep navy #0F0A1F, violet #7C4DFF, electric blue #4FC3F7, warm yellow #FFD54F, coral #FF6B8A, wood #A9713E. Lighting: soft top light. Style: original cartoon illustration, thick soft dark outlines, chunky rounded shapes, gentle cel shading, friendly sleepy-eyed lazy bears as the cast. Negatives: no text or lettering, no photorealism, no scary or adult content, no existing brands or copyrighted characters, no busy detail inside safe areas.",
+      "variants": [
+        "assets/images/ui/2.0x/wood_sign.png",
+        "assets/images/ui/3.0x/wood_sign.png"
+      ],
+      "center_slice_1x": {
+        "left": 40,
+        "top": 36,
+        "right": 320,
+        "bottom": 84
+      }
+    },
+    {
+      "id": "rope",
+      "path": "assets/images/ui/rope.png",
+      "type": "ui",
+      "size_px": "16x120 @1x, 32x240 @2x, 48x360 @3x",
+      "format": "png",
+      "used_on": [
+        "error",
+        "playerSetup",
+        "configuration",
+        "passPhone",
+        "readyToReveal",
+        "revealing",
+        "revealed",
+        "allRevealed",
+        "roundReady"
+      ],
+      "status": "placeholder",
+      "generation_prompt": "Subject: a thick twisted rope, vertical. Composition: transparent surroundings, tiles seamlessly top to bottom, 16x120 at 1x plus 2x and 3x. Safe area: none. Palette: deep purple #2B1452, indigo #3D1F7A, deep navy #0F0A1F, violet #7C4DFF, electric blue #4FC3F7, warm yellow #FFD54F, coral #FF6B8A, wood #A9713E. Lighting: soft side light. Style: original cartoon illustration, thick soft dark outlines, chunky rounded shapes, gentle cel shading, friendly sleepy-eyed lazy bears as the cast. Negatives: no text or lettering, no photorealism, no scary or adult content, no existing brands or copyrighted characters, no busy detail inside safe areas.",
+      "variants": [
+        "assets/images/ui/2.0x/rope.png",
+        "assets/images/ui/3.0x/rope.png"
+      ],
+      "tiles": "vertical"
+    },
+    {
+      "id": "nunito_400",
+      "path": "assets/fonts/Nunito/Nunito-Regular.ttf",
+      "type": "font",
+      "size_px": "-",
+      "format": "ttf",
+      "used_on": [
+        "all"
+      ],
+      "status": "final",
+      "generation_prompt": null,
+      "weight": 400
+    },
+    {
+      "id": "nunito_600",
+      "path": "assets/fonts/Nunito/Nunito-SemiBold.ttf",
+      "type": "font",
+      "size_px": "-",
+      "format": "ttf",
+      "used_on": [
+        "all"
+      ],
+      "status": "final",
+      "generation_prompt": null,
+      "weight": 600
+    },
+    {
+      "id": "nunito_700",
+      "path": "assets/fonts/Nunito/Nunito-Bold.ttf",
+      "type": "font",
+      "size_px": "-",
+      "format": "ttf",
+      "used_on": [
+        "all"
+      ],
+      "status": "final",
+      "generation_prompt": null,
+      "weight": 700
+    },
+    {
+      "id": "nunito_800",
+      "path": "assets/fonts/Nunito/Nunito-ExtraBold.ttf",
+      "type": "font",
+      "size_px": "-",
+      "format": "ttf",
+      "used_on": [
+        "all"
+      ],
+      "status": "final",
+      "generation_prompt": null,
+      "weight": 800
+    },
+    {
+      "id": "nunito_900",
+      "path": "assets/fonts/Nunito/Nunito-Black.ttf",
+      "type": "font",
+      "size_px": "-",
+      "format": "ttf",
+      "used_on": [
+        "all"
+      ],
+      "status": "final",
+      "generation_prompt": null,
+      "weight": 900
+    },
+    {
+      "id": "nunito_licence",
+      "path": "assets/fonts/Nunito/OFL.txt",
+      "type": "font",
+      "size_px": "-",
+      "format": "txt",
+      "used_on": [
+        "all"
+      ],
+      "status": "final",
+      "generation_prompt": null
+    },
+    {
+      "id": "imposter_words",
+      "path": "assets/data/imposter_words.json",
+      "type": "data",
+      "size_px": "900 entries",
+      "format": "json",
+      "used_on": [
+        "splash"
+      ],
+      "status": "final",
+      "generation_prompt": null
+    }
+  ]
+}
